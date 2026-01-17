@@ -2,4 +2,5 @@
     <string name="app_name">RecyclerView_with_Retrofit</string>
     <string name="name">Name</string>
     <string name="image">Avatar image</string>
+    <string name="characters_count">Personajes: %1$d</string>
 </resources>

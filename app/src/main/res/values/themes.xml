@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.RecyclerView_with_Retrofit" parent="Base.Theme.RecyclerView_with_Retrofit" />
+
+    <style name="ShapeAppearanceOverlay.App.RoundedImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
 </resources>

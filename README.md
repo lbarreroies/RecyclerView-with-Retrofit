@@ -2,12 +2,12 @@
 
 ## Descripción
 
-Aplicación Android que muestra una lista de personajes usando un `RecyclerView` alimentado desde una API REST mediante **Retrofit**, siguiendo el patrón **MVVM**.
+Aplicación Android que muestra una lista de personajes usando un `RecyclerView` alimentado desde una
+API REST mediante **Retrofit**, siguiendo el patrón **MVVM**.
 
 Se utiliza la API pública de Rick and Morty para obtener los datos.
 
-<img width="269" height="586" alt="image" src="https://github.com/user-attachments/assets/4150939a-56ea-40a2-9b25-7638856de0e7" />
-
+<img width="269" height="586" alt="image" src="./app/src/main/res/drawable/image_app.png" />
 
 ## Características
 
